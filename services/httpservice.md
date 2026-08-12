@@ -12,18 +12,6 @@ HttpService.HttpEnabled: boolean
 
 Returns whether HTTP functions are available.
 
-```luau
-HttpService.Name: string
-```
-
-Returns `"HttpService"`.
-
-```luau
-HttpService.ClassName: string
-```
-
-Returns `"HttpService"`.
-
 ### Methods
 
 ```luau

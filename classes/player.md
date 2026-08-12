@@ -27,11 +27,3 @@ Player.NameDisplayDistance: number
 ```
 
 These properties can be read and changed.
-
-### Methods
-
-Player supports the methods listed on [Instance](../instance.md), including direct child lookup:
-
-```luau
-local backpack = player:FindFirstChild("Backpack")
-```

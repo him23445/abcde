@@ -63,7 +63,3 @@ BasePart.Size: Vector3
 ```
 
 The size of the part.
-
-### Methods
-
-BasePart supports the methods listed on [Instance](../instance.md).

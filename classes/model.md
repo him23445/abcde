@@ -13,7 +13,3 @@ Model.Scale: number
 ```
 
 The model scale.
-
-### Methods
-
-Model supports the methods listed on [Instance](../instance.md).

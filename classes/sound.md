@@ -24,7 +24,3 @@ Sound.Volume: number
 ```
 
 These properties can be read and changed.
-
-### Methods
-
-Sound supports the methods listed on [Instance](../instance.md).

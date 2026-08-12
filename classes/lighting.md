@@ -32,7 +32,3 @@ Lighting.SunPosition: Vector3
 ```
 
 These properties are read-only.
-
-### Methods
-
-Lighting supports the methods listed on [Instance](../instance.md).

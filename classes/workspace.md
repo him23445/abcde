@@ -35,7 +35,3 @@ Workspace.FallenPartsDestroyHeight: number
 ```
 
 Parts below this height are removed by Roblox.
-
-### Methods
-
-Workspace supports the methods listed on [Instance](../instance.md).

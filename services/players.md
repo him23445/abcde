@@ -16,25 +16,9 @@ The player controlled by the current Roblox client.
 Players.PlayerAdded: RBXScriptSignal
 ```
 
-Fires when another player joins the server.
-
 ```luau
 Players.PlayerRemoving: RBXScriptSignal
 ```
-
-Fires when a player leaves the server.
-
-```luau
-Players.Name: string
-```
-
-Returns `"Players"`.
-
-```luau
-Players.ClassName: string
-```
-
-Returns `"Players"`.
 
 ### Methods
 

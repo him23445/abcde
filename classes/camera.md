@@ -39,5 +39,3 @@ Camera:WorldToViewportPoint(position: Vector3): Vector3, boolean
 ```
 
 Converts a world position into screen coordinates. The second return value says whether the point is on screen.
-
-Camera also supports the methods listed on [Instance](../instance.md).

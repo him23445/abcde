@@ -42,7 +42,3 @@ Humanoid.SeatPart: BasePart?
 ```
 
 These properties are read-only.
-
-### Methods
-
-Humanoid supports the methods listed on [Instance](../instance.md).
