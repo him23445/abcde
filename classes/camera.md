@@ -32,6 +32,12 @@ Camera.Position: Vector3
 
 The world position of the camera.
 
+```luau
+Camera.ViewportSize: Vector2
+```
+
+The current viewport width and height. This property is read-only.
+
 ### Methods
 
 ```luau

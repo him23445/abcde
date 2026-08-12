@@ -14,6 +14,7 @@
   * [RunService](services/runservice.md)
   * [HttpService](services/httpservice.md)
 * [Instance](instance.md)
+* [Data Types](classes/datatypes.md)
 * [Value](classes/value.md)
 * [Game](game.md)
 * [BasePart](classes/basepart.md)
@@ -23,4 +24,5 @@
 * [Model](classes/model.md)
 * [Player](classes/player.md)
 * [Sound](classes/sound.md)
+* [TextLabel](classes/textlabel.md)
 * [Workspace](classes/workspace.md)

@@ -11,6 +11,12 @@ BasePart.CastShadow: boolean
 Controls whether the part casts a shadow.
 
 ```luau
+BasePart.CanCollide: boolean
+```
+
+Controls whether the part collides with other parts.
+
+```luau
 BasePart.Color: Color3
 ```
 
@@ -51,6 +57,12 @@ BasePart.AssemblyLinearVelocity: Vector3
 ```
 
 The linear velocity of the part's assembly.
+
+```luau
+BasePart.Velocity: Vector3
+```
+
+An alias for `AssemblyLinearVelocity`.
 
 ```luau
 BasePart.AssemblyAngularVelocity: Vector3

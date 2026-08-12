@@ -2,7 +2,10 @@
 
 ```luau
 local Workspace = game:GetService("Workspace")
+local sameWorkspace = workspace
 ```
+
+The global `workspace` value references the current Workspace service.
 
 ### Properties
 
