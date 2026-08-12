@@ -13,8 +13,8 @@
   * [Players](services/players.md)
   * [RunService](services/runservice.md)
   * [HttpService](services/httpservice.md)
+  * [UserInputService](services/userinputservice.md)
 * [Instance](instance.md)
-* [Data Types](classes/datatypes.md)
 * [Value](classes/value.md)
 * [Game](game.md)
 * [BasePart](classes/basepart.md)
@@ -26,3 +26,11 @@
 * [Sound](classes/sound.md)
 * [TextLabel](classes/textlabel.md)
 * [Workspace](classes/workspace.md)
+
+## Data Types
+
+* [Data Types](data-types/README.md)
+  * [Color3](data-types/color3.md)
+  * [Enum](data-types/enum.md)
+  * [Vector2](data-types/vector2.md)
+  * [Vector3](data-types/vector3.md)

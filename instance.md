@@ -41,12 +41,6 @@ Instance:GetChildren(): {Instance}
 
 Returns an array containing the instance's direct children.
 
-```luau
-Instance:GetPosition(): Vector3?
-```
-
-Returns the world position of a supported part, or `nil` when a position is unavailable.
-
 Children can also be accessed by name:
 
 ```luau
