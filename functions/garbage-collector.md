@@ -3,13 +3,13 @@
 ### getgc
 
 ```luau
-getgc(includeTables: boolean?): {any}
+getgc(): {any}
 ```
 
-Returns objects tracked by the garbage collector. Pass `true` to include tables.
+Returns tables tracked by the garbage collector.
 
 ```luau
-for _, object in getgc(true) do
+for _, object in getgc() do
     if object.FireRate ~= nil then
         print(object.FireRate)
     end
