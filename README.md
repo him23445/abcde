@@ -1,6 +1,6 @@
-# Hi
+# Zyraph
 
-This doc is super wip
+Documentation for the Zyraph Luau environment.
 
-If you don't understand this, read [https://luau.org/](https://luau.org/) before using
+These pages are still a work in progress. For help with the Luau language itself, see [luau.org](https://luau.org/).
 
