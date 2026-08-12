@@ -18,7 +18,7 @@ The Roblox class name. This property is read-only.
 Instance.Parent: Instance?
 ```
 
-The instance containing this instance. Returns `nil` when there is no parent. This property is read-only.
+The instance containing this instance. Returns `nil` when there is no parent. Assign another Instance to move it, or assign `nil` to remove its parent.
 
 
 ### Methods
