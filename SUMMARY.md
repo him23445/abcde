@@ -9,6 +9,10 @@
 
 ## Classes
 
+* [Services](services/README.md)
+  * [Players](services/players.md)
+  * [RunService](services/runservice.md)
+  * [HttpService](services/httpservice.md)
 * [Instance](instance.md)
 * [Game](game.md)
 * [BasePart](classes/basepart.md)
@@ -19,10 +23,3 @@
 * [Player](classes/player.md)
 * [Sound](classes/sound.md)
 * [Workspace](classes/workspace.md)
-
-## Services
-
-* [Services](services/README.md)
-  * [Players](services/players.md)
-  * [RunService](services/runservice.md)
-  * [HttpService](services/httpservice.md)
