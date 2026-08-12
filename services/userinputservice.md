@@ -11,22 +11,20 @@ UserInputService.InputEnded:Connect(function(input: InputObject)
 end)
 ```
 
-Fires when a supported keyboard key is released. The callback receives one argument.
+Fires when a supported keyboard key is released.
 
 ```luau
 UserInputService.InputChanged:Connect(function(input: InputObject)
 end)
 ```
 
-Fires when the cursor moves while Roblox is focused. The callback receives one argument.
+Fires when a supported keyboard key changes between pressed and released.
 
 ### InputObject
 
 ```luau
 InputObject.KeyCode: EnumItem
-InputObject.Position: Vector3
-InputObject.Delta: Vector3
 ```
 
-`KeyCode` identifies released keyboard input. Cursor movement uses `Enum.KeyCode.Unknown` and provides its client position and movement delta.
+`KeyCode` identifies the keyboard input.
 
