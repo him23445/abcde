@@ -6,6 +6,7 @@
 
 * [Global Functions](functions/global-functions.md)
 * [Console](functions/console.md)
+* [Garbage Collector](functions/garbage-collector.md)
 
 ## Classes
 
