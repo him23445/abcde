@@ -14,11 +14,11 @@ end)
 Fires when a supported keyboard key is released.
 
 ```luau
-UserInputService.InputChanged:Connect(function(input: InputObject)
+UserInputService.InputBegan:Connect(function(input: InputObject)
 end)
 ```
 
-Fires when a supported keyboard key changes between pressed and released.
+Fires when a supported keyboard key is pressed.
 
 ### InputObject
 
