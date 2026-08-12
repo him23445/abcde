@@ -1,0 +1,6 @@
+# Game
+
+```luau
+game:GetService()
+```
+
