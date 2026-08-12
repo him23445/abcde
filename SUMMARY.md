@@ -14,6 +14,7 @@
   * [RunService](services/runservice.md)
   * [HttpService](services/httpservice.md)
 * [Instance](instance.md)
+* [Value](classes/value.md)
 * [Game](game.md)
 * [BasePart](classes/basepart.md)
 * [Camera](classes/camera.md)
