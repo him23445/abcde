@@ -4,14 +4,6 @@
 local HttpService = game:GetService("HttpService")
 ```
 
-### Properties
-
-```luau
-HttpService.HttpEnabled: boolean
-```
-
-Returns whether HTTP functions are available.
-
 ### Methods
 
 ```luau
