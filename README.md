@@ -2,7 +2,7 @@
 
 Documentation for the Zyraph Luau environment.
 
-Zyraph uses a standalone Luau VM rather than functioning as a traditional Roblox executor. It emulates selected Roblox classes, services, functions, and behavior without running scripts inside Roblox's Luau environment. This makes the emulated script execution itself almost impossible to detect through Roblox's scripting runtime.
+Zyraph is a Luau VM, not an executor. It emulates Roblox functions and features instead of hooking them, making it harder to detect.
 
 If you are new to the Luau language, see [luau.org](https://luau.org/).
 
