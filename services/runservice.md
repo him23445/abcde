@@ -12,6 +12,12 @@ RunService.RenderStepped: RBXScriptSignal
 
 Fires at a fixed rate of 60 times per second and passes the frame delta to the callback.
 
+```luau
+local deltaTime = RunService.RenderStepped:Wait()
+```
+
+Yields until the next update and returns the frame delta.
+
 ### Events
 
 ```luau

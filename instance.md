@@ -41,6 +41,24 @@ Instance:GetChildren(): {Instance}
 
 Returns an array containing the instance's direct children.
 
+```luau
+Instance:GetAttribute(name: string): any
+```
+
+Returns the value of an attribute, or `nil` when it does not exist.
+
+```luau
+Instance:SetAttribute(name: string, value: any)
+```
+
+Sets an attribute to a compatible value.
+
+```luau
+Instance:GetAttributes(): {[string]: any}
+```
+
+Returns the instance's attributes in a table.
+
 Children can also be accessed by name:
 
 ```luau

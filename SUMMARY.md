@@ -5,6 +5,7 @@
 ## Functions
 
 * [Global Functions](functions/global-functions.md)
+* [Task](functions/task.md)
 * [Console](functions/console.md)
 * [Garbage Collector](functions/garbage-collector.md)
 
