@@ -43,7 +43,7 @@ Returns the raw bytecode of a `Script`, `LocalScript`, or `ModuleScript`.
 ### decompile
 
 ```luau
-decompile(scriptOrBytecode: Instance | string): string
+decompile(script: Instance): string
 ```
 
-Decompiles a script Instance or raw script bytecode and returns Luau source.
+Decompiles a `Script`, `LocalScript`, or `ModuleScript` and returns Luau source.
